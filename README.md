@@ -3,7 +3,7 @@
 A simple interactive web app to generate and solve mazes using various algorithms. Visualizes both maze generation and pathfinding step-by-step using D3.js and vanilla JavaScript.
 
 ## Live At
-[Live Demo](sumitreddy123.github.io/pathFinding-algorithm-visualizer/)
+[Live Demo](https://sumitreddy123.github.io/pathFinding-algorithm-visualizer/)
 
 ## Features
 - **Maze Generation Algorithms:**
